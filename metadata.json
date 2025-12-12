@@ -1,0 +1,5 @@
+{
+  "name": "Class Achievement Dashboard",
+  "description": "A data visualization dashboard showcasing class honors, software copyrights, competitions, and academic achievements based on class records.",
+  "requestFramePermissions": []
+}
